@@ -1,0 +1,4 @@
+var x = 'bienvenido "Don rosario";)'
+var y = 'we\'re the champions';
+console.log(x); 
+console.log(y);
